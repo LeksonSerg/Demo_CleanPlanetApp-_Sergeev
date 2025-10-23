@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|c:\\users\\serge\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\program_testi\\cleanplanetapp\\cleanplanetapp\\materialcalculationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|solutionrelative:cleanplanetapp\\materialcalculationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|c:\\users\\serge\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\program_testi\\cleanplanetapp\\cleanplanetapp\\materialcalculationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|solutionrelative:cleanplanetapp\\materialcalculationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|c:\\users\\serge\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\program_testi\\cleanplanetapp\\cleanplanetapp\\materialcalculationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|solutionrelative:cleanplanetapp\\materialcalculationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|c:\\users\\serge\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\program_testi\\cleanplanetapp\\cleanplanetapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|solutionrelative:cleanplanetapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|c:\\users\\serge\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\program_testi\\cleanplanetapp\\cleanplanetapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93FB33-7E1E-488D-9A0B-4945DE9116F9}|CleanPlanetApp\\CleanPlanetApp.csproj|solutionrelative:cleanplanetapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialCalculationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MaterialCalculationForm.cs",
+              "RelativeDocumentMoniker": "CleanPlanetApp\\MaterialCalculationForm.cs",
+              "ToolTip": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MaterialCalculationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CleanPlanetApp\\MaterialCalculationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T09:06:14.724Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialCalculationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MaterialCalculationForm.Designer.cs",
+              "RelativeDocumentMoniker": "CleanPlanetApp\\MaterialCalculationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MaterialCalculationForm.Designer.cs",
+              "RelativeToolTip": "CleanPlanetApp\\MaterialCalculationForm.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvzkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:59:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialCalculationForm.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MaterialCalculationForm.cs",
+              "RelativeDocumentMoniker": "CleanPlanetApp\\MaterialCalculationForm.cs",
+              "ToolTip": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MaterialCalculationForm.cs",
+              "RelativeToolTip": "CleanPlanetApp\\MaterialCalculationForm.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAADwv4wAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:59:00.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "CleanPlanetApp\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "CleanPlanetApp\\MainForm.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwDYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:43:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "CleanPlanetApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\serge\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Program_Testi\\CleanPlanetApp\\CleanPlanetApp\\MainForm.cs",
+              "RelativeToolTip": "CleanPlanetApp\\MainForm.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAADwv7QAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:37:23.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

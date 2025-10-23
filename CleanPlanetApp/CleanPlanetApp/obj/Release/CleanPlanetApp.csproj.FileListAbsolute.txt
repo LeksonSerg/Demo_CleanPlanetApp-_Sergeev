@@ -1,0 +1,9 @@
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\bin\Release\CleanPlanetApp.exe.config
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\bin\Release\CleanPlanetApp.exe
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\bin\Release\CleanPlanetApp.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Release\CleanPlanetApp.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Release\CleanPlanetApp.Properties.Resources.resources
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Release\CleanPlanetApp.csproj.GenerateResource.cache
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Release\CleanPlanetApp.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Release\CleanPlanetApp.exe
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Release\CleanPlanetApp.pdb

@@ -1,0 +1,14 @@
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\bin\Debug\CleanPlanetApp.exe.config
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\bin\Debug\CleanPlanetApp.exe
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\bin\Debug\CleanPlanetApp.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.Properties.Resources.resources
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.csproj.GenerateResource.cache
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.exe
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.exe.config
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.MainForm.resources
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\bin\Debug\Иконка.ico
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\bin\Debug\Лого.jpg
+C:\Users\serge\OneDrive\Рабочий стол\Program_Testi\CleanPlanetApp\CleanPlanetApp\obj\Debug\CleanPlanetApp.MaterialCalculationForm.resources
